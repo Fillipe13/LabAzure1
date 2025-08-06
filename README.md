@@ -21,4 +21,4 @@ Language Studio:
 
 - Acesse https://ai.azure.com e entre com suas credenciais.
 
-- - Acesse https://ai.azure.com/managementCenter/allResources e selecione Playground no menu lateral à esqueda, e depois Playground de idiomas para criar um projeto.
+- Acesse https://ai.azure.com/managementCenter/allResources e selecione Playground no menu lateral à esqueda, e depois Playground de idiomas para criar um projeto.
